@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**oyyago/Oyyago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2> 𝐇𝐞𝐥𝐥𝐨 <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Rafael Yago 😃. I am from Campo Grande/MS, applied student, and developer.
+
+<a href="https://discord.com/channels/@oyyago" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:yyagoaraujo@gmail.com?subject=Ola !!!&body=Oi%20Yago%20..."><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/yago-de-sousa-6b6b8a229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+## ⚡ Technologies
+Talk to me about
+- Front-end development using **React**
+- Backend development using **NodeJS: EXPRESS, JAVA: SPRING BOOT**
+- Creating scalable cloud architecture using **AWS amazon**
+
