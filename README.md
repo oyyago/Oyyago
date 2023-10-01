@@ -11,5 +11,3 @@ I am Yago 😃. I am from Campo Grande/MS, applied student, and developer.
 Talk to me about
 - Front-end development using **React**
 - Backend development using **NodeJS: EXPRESS, JAVA: SPRING BOOT**
-- Creating scalable cloud architecture using **AWS amazon**
-
