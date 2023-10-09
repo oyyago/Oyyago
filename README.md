@@ -9,5 +9,5 @@ I am Yago 😃. I am from Campo Grande/MS, applied student, and developer.
   <a href="https://www.linkedin.com/in/yago-de-sousa-6b6b8a229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **React**
-- Backend development using **NodeJS: EXPRESS, JAVA: SPRING BOOT**
+- Front-end development using **React** **Angular**
+- Backend development using **JAVA: SPRING BOOT, NodeJS: EXPRESS**
