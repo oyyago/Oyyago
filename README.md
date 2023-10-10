@@ -11,3 +11,7 @@ I am Yago 😃. I am from Campo Grande/MS, applied student, and developer.
 Talk to me about
 - Front-end development using **TYPESCRIPT: REACT, ANGULAR**
 - Backend development using **JAVA: SPRING BOOT, NodeJS: EXPRESS**
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyyago&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyyago&layout=compact)
